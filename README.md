@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-I'm an Enterprise Solutions Architect with **17+ years** of experience designing and delivering large-scale digital platforms in Publishing, eCommerce, and Cloud. I combine deep engineering expertise with strategic architecture thinking — supercharged by postgraduate qualifications in **AI/ML** (MSc, Liverpool John Moores University & PG Diploma, IIIT Bangalore).
+I'm an Enterprise Solutions Architect with **20+ years** of experience designing and delivering large-scale digital platforms in Publishing, eCommerce, and Cloud. I combine deep engineering expertise with strategic architecture thinking — supercharged by postgraduate qualifications in **AI/ML** (MSc, Liverpool John Moores University & PG Diploma, IIIT Bangalore).
 
 Currently serving as **eCommerce Domain Architect at John Wiley & Sons**, leading headless commerce platforms, AI-powered recommendation engines, and cloud-native microservice ecosystems. My latest work explores **Agentic AI** — building and deploying custom agents on Amazon Bedrock AgentCore with FastAPI and LangChain.
 
